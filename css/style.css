@@ -11,7 +11,6 @@ li{
 	margin: 0;
 }
 .menu-bar{
-
 	color: #212121;
 }
 .menu_item{
@@ -97,9 +96,47 @@ margin-bottom: 100px;
 
 }
 .header_title_second{
-margin-top: -60px;
-margin-bottom: 60px;
+	margin-top: -60px;
+	margin-bottom: 60px;
 }
 .form-control{
 	width:500px;
+	border-radius: 5%;
+}
+.btn-lg{
+	margin-top: 20px;
+width:150px;
+}
+
+fieldset {
+  padding: 40px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+footer{
+	height:200px;
+}
+.pictures {
+	padding-bottom: 20px;
+	margin:130px;
+	font-size:25px;
+	color: black;
+	background: grey;
+	text-align: center;
+	border: 2px solid black;
+}
+.photo_single{
+	background: #4E4646 ;
+	margin:20px;
+	padding: 2px;
+	border: 2px solid black;
+	border-radius: 5px;
+	height:250px;
+	width: 250px;
+}
+.img_single{
+	height:250px;
+	width: 250px;
+	border: 1px solid black;
+	border-radius: 5px;
 }
